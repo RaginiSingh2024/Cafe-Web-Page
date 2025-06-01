@@ -48,15 +48,13 @@ cafe-website
 
 ---
 
+## Team Member
+- Ragini Singh
+- Sakshi Shingole
 
 ## 🖼️ Screenshots
 
-
-
 https://github.com/user-attachments/assets/5ad9f59d-f470-4bf2-bff1-e69b507c3c4b
-
-
-
 
 ## 🚀 Getting Started
 
